@@ -1,9 +1,9 @@
-Массив:
+#Массив:
 #include <iostream>
 #include <array>
 #include <vector>
 using namespace std;
-Список:
+#Список:
 #include <iostream>
 #include <list>
 #include <string>
@@ -13,7 +13,7 @@ int main() {
     cout << "=== СПИСОК ===" << endl;
     
     list<string> my_list = {"яблоко", "банан", "вишня"};
-Стек:
+#Стек:
 #include <iostream>
 #include <stack>
 #include <string>
