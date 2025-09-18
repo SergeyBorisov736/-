@@ -1,0 +1,25 @@
+#Массив:
+#include <iostream>
+#include <array>
+#include <vector>
+using namespace std;
+#Список:
+#include <iostream>
+#include <list>
+#include <string>
+using namespace std;
+
+int main() {
+    cout << "=== СПИСОК ===" << endl;
+    
+    list<string> my_list = {"яблоко", "банан", "вишня"};
+#Стек:
+#include <iostream>
+#include <stack>
+#include <string>
+using namespace std;
+
+int main() {
+    cout << "=== СТЕК ===" << endl;
+    
+    stack<string> stack;
