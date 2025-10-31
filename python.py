@@ -96,7 +96,8 @@ print("Исходный массив:", arr)
 sorted_arr = quick_sort(arr) 
 
 print("Отсортированный массив:", sorted_arr) 
-
+Ввод: 10 7 8 9 1 5 
+Вывод: 1 5 7 8 9 10 
 8.Последовательный поиск
 def linear_search(arr, target): 
 
@@ -195,5 +196,6 @@ if result != -1:
 else: 
 
     print("Элемент не найден") 
+
 
 
